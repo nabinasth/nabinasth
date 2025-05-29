@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I am Nabina Shrestha
 
-<!--
-**nabinasth/nabinasth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate **Data Analyst and Aspiring AI Practitioner** with a background in Public Health and a strong drive to make data meaningful and actionable.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Master’s in Data Science (Expected Aug 2025) 
+- 📊 I specialize in **Data Analytics**, **Statistical Modeling**, and **AI applications** for real-world impact
+- 🧠 Fascinated by **Machine Learning**, **Explainable AI)**, and **Ethical Data Use**
+
+### What I’m Working On
+
+- 📈 **Predictive analytics in healthcare** – improving patient outcomes through data
+- ☁️ **AWS Certified Cloud Practitioner (CLF-C02)** – building a strong foundation in cloud computing
+- 🤖 **Machine Learning Projects** – classification, regression, and interpretability tools
+- 🛠️ Exploring tools like **Pandas**, **Scikit-learn**, **Tableau**
