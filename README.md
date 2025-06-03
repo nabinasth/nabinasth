@@ -1,16 +1,42 @@
-## Hi there 👋 I am Nabina Shrestha
+👋 Hi there, I'm Nabina Shrestha
+🎯 Data Analyst | AI Enthusiast | Public Health Advocate
+🔍 Turning data into insights, stories, and smarter decisions
 
-Welcome to my GitHub! I'm a passionate **Data Analyst and Aspiring AI Practitioner** with a background in Public Health and a strong drive to make data meaningful and actionable.
+🧠 Data Science | AI | Analytics
+Analytics & Modeling: EDA, statistical testing, regression & classification models
 
-### About Me
+Machine Learning: Supervised learning, model interpretability, explainable AI
 
-- 🎓 Master’s in Data Science (Expected Aug 2025) 
-- 📊 I specialize in **Data Analytics**, **Statistical Modeling**, and **AI applications** for real-world impact
-- 🧠 Fascinated by **Machine Learning**, **Explainable AI)**, and **Ethical Data Use**
+Cloud & Tools: AWS Cloud Practitioner (CLF-C02), data workflows in the cloud
 
-### What I’m Working On
+Public Health Data: Applying data science to improve patient outcomes
 
-- 📈 **Predictive analytics in healthcare** – improving patient outcomes through data
-- ☁️ **AWS Certified Cloud Practitioner (CLF-C02)** – building a strong foundation in cloud computing
-- 🤖 **Machine Learning Projects** – classification, regression, and interpretability tools
-- 🛠️ Exploring tools like **Pandas**, **Scikit-learn**, **Tableau**
+🛠️ Languages & Libraries
+Python: pandas, NumPy, scikit-learn, matplotlib, seaborn
+
+SQL: MySQL – joins, subqueries, aggregations
+
+Cloud: AWS (certified), working knowledge of S3, EC2
+
+Notebooks: Jupyter, VS Code
+
+Data Viz: Tableau, Power BI (basic dashboards)
+
+📈 Projects & Interests
+Healthcare Analytics: Readmission prediction, patient risk scoring
+
+Cloud Foundations: AWS-based ML pipeline exploration
+
+ML Projects: Classification, regression
+
+Ethics in AI: Fairness, transparency, and accountability in algorithms
+
+Lifelong Learning: Combining tech with purpose to create social impact
+
+🎓 Education
+Master’s in Data Science – Expected Aug 2025
+Background in Public Health – Bridging data with real-world care
+
+🤝 Let’s Connect
+📧 Email: nabina.stha01@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/nabina-shrestha-465203142
