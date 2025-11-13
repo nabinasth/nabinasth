@@ -38,4 +38,3 @@
 
 ## 📫 Let’s Connect
 📧 **Email:** [nabinashrestha746@gmail.com](mailto:nabinashrestha746@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/nabinashrestha01](https://www.linkedin.com/in/nabinashrestha01)  
